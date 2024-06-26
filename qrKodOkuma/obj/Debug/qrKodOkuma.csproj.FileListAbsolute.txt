@@ -1,0 +1,39 @@
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\qrKodOkuma.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\qrKodOkuma.exe
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\qrKodOkuma.pdb
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.dll
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.Video.dll
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\zxing.dll
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\zxing.presentation.dll
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.xml
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.Video.xml
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\zxing.xml
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\bin\Debug\zxing.presentation.xml
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.exe
+c:\users\hp\documents\visual studio 2015\Projects\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.pdb
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\qrKodOkuma.exe.config
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\qrKodOkuma.exe
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\qrKodOkuma.pdb
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.dll
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.Video.DirectShow.dll
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.Video.dll
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\zxing.dll
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\zxing.presentation.dll
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.xml
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.Video.xml
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\AForge.Video.DirectShow.xml
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\zxing.xml
+D:\qrKodOkuma\qrKodOkuma\bin\Debug\zxing.presentation.xml
+D:\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.csproj.AssemblyReference.cache
+D:\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.Form1.resources
+D:\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.Properties.Resources.resources
+D:\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.csproj.GenerateResource.cache
+D:\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.csproj.CoreCompileInputs.cache
+D:\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.exe
+D:\qrKodOkuma\qrKodOkuma\obj\Debug\qrKodOkuma.pdb

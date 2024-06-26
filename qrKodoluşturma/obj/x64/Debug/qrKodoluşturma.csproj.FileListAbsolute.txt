@@ -1,0 +1,21 @@
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\bin\x64\Debug\qrKodoluşturma.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\bin\x64\Debug\qrKodoluşturma.exe
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\bin\x64\Debug\qrKodoluşturma.pdb
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\bin\x64\Debug\QRCoder.dll
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.exe
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.pdb
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.csprojResolveAssemblyReference.cache
+D:\qrKodoluşturma\qrKodoluşturma\bin\x64\Debug\qrKodoluşturma.exe.config
+D:\qrKodoluşturma\qrKodoluşturma\bin\x64\Debug\qrKodoluşturma.exe
+D:\qrKodoluşturma\qrKodoluşturma\bin\x64\Debug\qrKodoluşturma.pdb
+D:\qrKodoluşturma\qrKodoluşturma\bin\x64\Debug\QRCoder.dll
+D:\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.csproj.AssemblyReference.cache
+D:\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.Form1.resources
+D:\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.Properties.Resources.resources
+D:\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.csproj.GenerateResource.cache
+D:\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.csproj.CoreCompileInputs.cache
+D:\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.exe
+D:\qrKodoluşturma\qrKodoluşturma\obj\x64\Debug\qrKodoluşturma.pdb

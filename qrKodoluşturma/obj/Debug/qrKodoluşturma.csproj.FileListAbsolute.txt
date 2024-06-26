@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\bin\Debug\qrKodoluşturma.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\bin\Debug\qrKodoluşturma.exe
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\bin\Debug\qrKodoluşturma.pdb
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\bin\Debug\QRCoder.dll
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\Debug\qrKodoluşturma.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\Debug\qrKodoluşturma.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\Debug\qrKodoluşturma.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\Debug\qrKodoluşturma.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\Debug\qrKodoluşturma.exe
+c:\users\hp\documents\visual studio 2015\Projects\qrKodoluşturma\qrKodoluşturma\obj\Debug\qrKodoluşturma.pdb
